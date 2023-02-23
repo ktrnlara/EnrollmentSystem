@@ -111,4 +111,7 @@ class Registration {
 //     public void showLoginScreen() {
 //     }
 // }
+// public static void main(String[] args) {
+//         JFrameDemo GUI = new JFrameDemo();
+//     }
 
